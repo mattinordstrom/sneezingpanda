@@ -1,0 +1,7 @@
+
+CONST_SPEED = 3000;
+CONST_MOVEMENT = 10;
+
+BGR_IMG_HEIGHT = 1920;
+
+//sprite positions...
